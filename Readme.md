@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Fedya Savchuk](https://up.htmlacademy.ru/htmlcss/23/user/933929).
-
+-* Наставник: [Николай Пойманов] (https://up.htmlacademy.ru/htmlcss/23/user/23280)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
